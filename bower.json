@@ -61,7 +61,7 @@
     "assets/js/mootools/classes/dk-jsu-elscroller/dk-jsu-elscroller.js"
   ],
   "dependencies": {
-    "jquery": "~1.7.2",
+    "jquery": "2.1.1",
     "mootools": "~1.4.5",
     "mootools-more": "1.4.0.1"
   },
